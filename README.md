@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm PhnX
 
-<!--
-**phnxthedev/phnxthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer & Tech enthusiast** from France.
 
-Here are some ideas to get you started:
+I'm passionate about **web development, cybersecurity, software and operating systems**. I like building projects from scratch, experimenting with new technologies and learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+
+- 🌐 **PhnXDev** — web development & personal projects
+- 🔐 Cybersecurity & CTFs
+- 🤖 Discord bots & automation
+- ⚙️ Software and system development
+
+## 🛠️ Technologies
+
+`Python` `C++` `JavaScript` `HTML` `CSS` `Git` `Linux` `Windows`
+
+## 🎯 Goal
+
+> **Build. Learn. Break. Improve. Repeat.**
+
+Always working on something new. 🚀
