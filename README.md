@@ -13,7 +13,7 @@ I'm passionate about **web development, cybersecurity, software and operating sy
 
 ## 🛠️ Technologies
 
-`Python` `C++` `JavaScript` `HTML` `CSS` `Git` `Linux` `Windows`
+`Python` `C++` `JavaScript` `HTML` `CSS` `Linux` `Windows`
 
 ## 🎯 Goal
 
